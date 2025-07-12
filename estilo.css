@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+    margin: auto;
+    padding: 30px;
+    border: 20px solid white;
+}
+h1{
+    color: palevioletred;
+            font-size: 40px;
+}
+body{
+    text-align: center;
+}
+img{
+    padding: 15px 40px;
+}
